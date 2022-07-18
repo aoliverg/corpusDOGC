@@ -9,3 +9,7 @@ In this repository you can find all the Python scripts to donwload, convert to t
 
 The corpus is available for download in the following address: [http://lpg.uoc.edu/corpusDOGC/DOGC-2021-cat-spa.zip](http://lpg.uoc.edu/corpusDOGC/DOGC-2021-cat-spa.zip)
 
+Neural machine translation systems using the MTUOC-server can be downloaded from the following links:
+
+* cat-spa: [http://lpg.uoc.edu/MTUOC-MT-engines/DOCG-transformer-20220714-cat-spa.zip](http://lpg.uoc.edu/MTUOC-MT-engines/DOCG-transformer-20220714-cat-spa.zip)
+* spa-cat: [http://lpg.uoc.edu/MTUOC-MT-engines/DOGC-transformer-20220623-spa-cat.zip](http://lpg.uoc.edu/MTUOC-MT-engines/DOGC-transformer-20220623-spa-cat.zip)
